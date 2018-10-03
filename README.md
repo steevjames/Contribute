@@ -5,3 +5,5 @@ Add your names here in the readme file, and win an exciting Limited Edition Hack
 2. Richard Davis
 3. Eibel Salil
 4. The Dark Phoenix
+5. WarMachine
+6. Warmachine
