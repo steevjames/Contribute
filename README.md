@@ -1,5 +1,5 @@
-# Contribute - Hacktoberfest 2k18
-Add your names here in the readme file, and win an exciting Limited Edition Hacktoberfest T-Shirt alongwith cool laptop stickers. 
+# Contribute 
+Add your names here in the readme file. 
 
 1. Steev James
 2. Richard Davis
