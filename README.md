@@ -10,3 +10,6 @@ Add your names here in the readme file.
 7. Cassey
 8. Daannxz
 9. No one
+
+Ways to improve life:
+
