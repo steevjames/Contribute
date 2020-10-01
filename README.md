@@ -3,7 +3,7 @@ Add your names here in the readme file.
 
 1. Steev James
 2. Richard Davis
-3. Eibel Salil
+3. Eibel
 4. The Dark Phoenix
 5. firebreath1001+Jery
 6. Warmachine
