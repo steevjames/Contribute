@@ -15,7 +15,7 @@ Add your names here in the readme file.
 12. Jairam R Prabhu
 13. Vivek R
 14. Uriel Rick
-15.  Caselani
+15. Caselani
 16. Dan
 17. Luan
 18. Pious Alex
@@ -29,13 +29,13 @@ Add your names here in the readme file.
 26. Kashish Mittal
 27. Anish
 28. Sunny
-29. rizwaan
+29. Rizwaan
 30. Sriansu
-31. manoj
-32. pappughosh
+31. Manoj
+32. Pappughosh
 33. Manasi Varaiya
-34. shehani rashmika
+34. Shehani rashmika
 35. Kedar Kodgire
 36. Virtual Ghost
-37. anonymous-sidhax
+37. Anonymous-sidhax
 38. Plingooo
