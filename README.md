@@ -50,11 +50,10 @@ Add your names here in the readme file.
 47. volt9801
 48. shreyanshi shukla
 49. TumAro
-47. shreyanshi shukla
-48. Sahan Chandrabahu 
-49. Joao Batista
-48. Veer Shah
-49. arifsetyo21
-48. shreyanshi shukla
-49. Human
-48. kellykn96
+50. Sahan Chandrabahu 
+51. Joao Batista
+52. Veer Shah
+53. arifsetyo21
+54. shreyanshi shukla
+55. Human
+56. kellykn96
