@@ -64,4 +64,4 @@ Add your names here in the readme file.
 61. Avishkar Patil
 62. AviPatilPro
 63. Spacial
-64. Alex S D
+64. Alex S
